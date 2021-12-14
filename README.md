@@ -2,7 +2,7 @@
 ***
 - 🌱 I’m currently learning **React** & **Javascript**
 
-[![Jihye Kim's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimji9663&hide=stars&show_icons=true&theme=tokyonight&border_color=638fda)](https://github.com/anuraghazra/github-readme-stats)
+![Jihye Kim's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimji9663&hide=stars&show_icons=true&theme=tokyonight&border_color=638fda)
 
 <!--
 **kimji9663/kimji9663** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
