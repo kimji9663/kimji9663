@@ -1,4 +1,5 @@
 ### Hi there 👋
+***
 - 🌱 I’m currently learning **React** & **Javascript**
 
 ![Jihye Kim's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimji9663&hide=stars&show_icons=true&theme=tokyonight&border_color=638fda)
