@@ -1,8 +1,9 @@
 ### Hi there 👋
 ***
-- 🌱 I’m currently learning **React** & **Javascript** & **React Native**
+- 🌱 I learned **React** & **Javascript** & **React Native**
+- 🌱 I’m currently learning **Python** & **Deep Learning** & **LLM** & **AI Engineering**
 
-![Jihye Kim's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimji9663&hide=stars&show_icons=true&theme=tokyonight&border_color=638fda)
+[![Jihye Kim's GitHub stats](https://github-stats-extended.vercel.app/api?username=kimji9663&hide=stars&show_icons=true&theme=tokyonight&border_color=638fda)](https://github.com/stats-organization/github-stats-extended)
 
 <!--
 **kimji9663/kimji9663** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
